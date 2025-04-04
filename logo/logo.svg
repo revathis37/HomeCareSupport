@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- House Roof -->
+    <path d="M100 20L20 100H40V170H160V100H180L100 20Z" fill="black"/>
+    <!-- House Body -->
+    <rect x="40" y="100" width="120" height="70" fill="black"/>
+    <!-- Door -->
+    <rect x="85" y="120" width="30" height="50" fill="white"/>
+    <!-- Window Left -->
+    <rect x="55" y="110" width="20" height="20" fill="white"/>
+    <!-- Window Right -->
+    <rect x="125" y="110" width="20" height="20" fill="white"/>
+</svg>
